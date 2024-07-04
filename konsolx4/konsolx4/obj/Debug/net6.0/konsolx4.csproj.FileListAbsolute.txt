@@ -1,0 +1,15 @@
+C:\Users\segad\source\repos\konsolx4\konsolx4\obj\Debug\net6.0\konsolx4.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\konsolx4\konsolx4\obj\Debug\net6.0\konsolx4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\konsolx4\konsolx4\obj\Debug\net6.0\konsolx4.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\konsolx4\konsolx4\obj\Debug\net6.0\konsolx4.AssemblyInfo.cs
+C:\Users\segad\source\repos\konsolx4\konsolx4\obj\Debug\net6.0\konsolx4.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\konsolx4\konsolx4\bin\Debug\net6.0\konsolx4.exe
+C:\Users\segad\source\repos\konsolx4\konsolx4\bin\Debug\net6.0\konsolx4.deps.json
+C:\Users\segad\source\repos\konsolx4\konsolx4\bin\Debug\net6.0\konsolx4.runtimeconfig.json
+C:\Users\segad\source\repos\konsolx4\konsolx4\bin\Debug\net6.0\konsolx4.dll
+C:\Users\segad\source\repos\konsolx4\konsolx4\bin\Debug\net6.0\konsolx4.pdb
+C:\Users\segad\source\repos\konsolx4\konsolx4\obj\Debug\net6.0\konsolx4.dll
+C:\Users\segad\source\repos\konsolx4\konsolx4\obj\Debug\net6.0\refint\konsolx4.dll
+C:\Users\segad\source\repos\konsolx4\konsolx4\obj\Debug\net6.0\konsolx4.pdb
+C:\Users\segad\source\repos\konsolx4\konsolx4\obj\Debug\net6.0\konsolx4.genruntimeconfig.cache
+C:\Users\segad\source\repos\konsolx4\konsolx4\obj\Debug\net6.0\ref\konsolx4.dll

@@ -1,0 +1,15 @@
+C:\Users\segad\source\repos\asdwqesdqqqqdqdqdq\asdwqesdqqqqdqdqdq\bin\Debug\net6.0\asdwqesdqqqqdqdqdq.exe
+C:\Users\segad\source\repos\asdwqesdqqqqdqdqdq\asdwqesdqqqqdqdqdq\bin\Debug\net6.0\asdwqesdqqqqdqdqdq.deps.json
+C:\Users\segad\source\repos\asdwqesdqqqqdqdqdq\asdwqesdqqqqdqdqdq\bin\Debug\net6.0\asdwqesdqqqqdqdqdq.runtimeconfig.json
+C:\Users\segad\source\repos\asdwqesdqqqqdqdqdq\asdwqesdqqqqdqdqdq\bin\Debug\net6.0\asdwqesdqqqqdqdqdq.dll
+C:\Users\segad\source\repos\asdwqesdqqqqdqdqdq\asdwqesdqqqqdqdqdq\bin\Debug\net6.0\asdwqesdqqqqdqdqdq.pdb
+C:\Users\segad\source\repos\asdwqesdqqqqdqdqdq\asdwqesdqqqqdqdqdq\obj\Debug\net6.0\asdwqesdqqqqdqdqdq.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\asdwqesdqqqqdqdqdq\asdwqesdqqqqdqdqdq\obj\Debug\net6.0\asdwqesdqqqqdqdqdq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\asdwqesdqqqqdqdqdq\asdwqesdqqqqdqdqdq\obj\Debug\net6.0\asdwqesdqqqqdqdqdq.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\asdwqesdqqqqdqdqdq\asdwqesdqqqqdqdqdq\obj\Debug\net6.0\asdwqesdqqqqdqdqdq.AssemblyInfo.cs
+C:\Users\segad\source\repos\asdwqesdqqqqdqdqdq\asdwqesdqqqqdqdqdq\obj\Debug\net6.0\asdwqesdqqqqdqdqdq.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\asdwqesdqqqqdqdqdq\asdwqesdqqqqdqdqdq\obj\Debug\net6.0\asdwqesdqqqqdqdqdq.dll
+C:\Users\segad\source\repos\asdwqesdqqqqdqdqdq\asdwqesdqqqqdqdqdq\obj\Debug\net6.0\refint\asdwqesdqqqqdqdqdq.dll
+C:\Users\segad\source\repos\asdwqesdqqqqdqdqdq\asdwqesdqqqqdqdqdq\obj\Debug\net6.0\asdwqesdqqqqdqdqdq.pdb
+C:\Users\segad\source\repos\asdwqesdqqqqdqdqdq\asdwqesdqqqqdqdqdq\obj\Debug\net6.0\asdwqesdqqqqdqdqdq.genruntimeconfig.cache
+C:\Users\segad\source\repos\asdwqesdqqqqdqdqdq\asdwqesdqqqqdqdqdq\obj\Debug\net6.0\ref\asdwqesdqqqqdqdqdq.dll

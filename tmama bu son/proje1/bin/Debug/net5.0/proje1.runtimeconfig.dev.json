@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\segad\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\segad\\.nuget\\packages"
+    ]
+  }
+}

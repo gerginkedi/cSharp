@@ -1,0 +1,12 @@
+C:\Users\segad\source\repos\araba\bin\Debug\net6.0\araba.deps.json
+C:\Users\segad\source\repos\araba\bin\Debug\net6.0\araba.dll
+C:\Users\segad\source\repos\araba\bin\Debug\net6.0\araba.pdb
+C:\Users\segad\source\repos\araba\obj\Debug\net6.0\araba.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\araba\obj\Debug\net6.0\araba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\araba\obj\Debug\net6.0\araba.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\araba\obj\Debug\net6.0\araba.AssemblyInfo.cs
+C:\Users\segad\source\repos\araba\obj\Debug\net6.0\araba.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\araba\obj\Debug\net6.0\araba.dll
+C:\Users\segad\source\repos\araba\obj\Debug\net6.0\refint\araba.dll
+C:\Users\segad\source\repos\araba\obj\Debug\net6.0\araba.pdb
+C:\Users\segad\source\repos\araba\obj\Debug\net6.0\ref\araba.dll

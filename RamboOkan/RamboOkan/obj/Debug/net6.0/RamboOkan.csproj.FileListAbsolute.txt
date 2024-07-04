@@ -1,0 +1,15 @@
+C:\Users\segad\source\repos\RamboOkan\RamboOkan\bin\Debug\net6.0\RamboOkan.exe
+C:\Users\segad\source\repos\RamboOkan\RamboOkan\bin\Debug\net6.0\RamboOkan.deps.json
+C:\Users\segad\source\repos\RamboOkan\RamboOkan\bin\Debug\net6.0\RamboOkan.runtimeconfig.json
+C:\Users\segad\source\repos\RamboOkan\RamboOkan\bin\Debug\net6.0\RamboOkan.dll
+C:\Users\segad\source\repos\RamboOkan\RamboOkan\bin\Debug\net6.0\RamboOkan.pdb
+C:\Users\segad\source\repos\RamboOkan\RamboOkan\obj\Debug\net6.0\RamboOkan.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\RamboOkan\RamboOkan\obj\Debug\net6.0\RamboOkan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\RamboOkan\RamboOkan\obj\Debug\net6.0\RamboOkan.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\RamboOkan\RamboOkan\obj\Debug\net6.0\RamboOkan.AssemblyInfo.cs
+C:\Users\segad\source\repos\RamboOkan\RamboOkan\obj\Debug\net6.0\RamboOkan.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\RamboOkan\RamboOkan\obj\Debug\net6.0\RamboOkan.dll
+C:\Users\segad\source\repos\RamboOkan\RamboOkan\obj\Debug\net6.0\refint\RamboOkan.dll
+C:\Users\segad\source\repos\RamboOkan\RamboOkan\obj\Debug\net6.0\RamboOkan.pdb
+C:\Users\segad\source\repos\RamboOkan\RamboOkan\obj\Debug\net6.0\RamboOkan.genruntimeconfig.cache
+C:\Users\segad\source\repos\RamboOkan\RamboOkan\obj\Debug\net6.0\ref\RamboOkan.dll

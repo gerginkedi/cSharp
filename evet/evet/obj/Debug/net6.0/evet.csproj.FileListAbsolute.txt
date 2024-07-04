@@ -1,0 +1,15 @@
+C:\Users\segad\source\repos\evet\evet\bin\Debug\net6.0\evet.exe
+C:\Users\segad\source\repos\evet\evet\bin\Debug\net6.0\evet.deps.json
+C:\Users\segad\source\repos\evet\evet\bin\Debug\net6.0\evet.runtimeconfig.json
+C:\Users\segad\source\repos\evet\evet\bin\Debug\net6.0\evet.dll
+C:\Users\segad\source\repos\evet\evet\bin\Debug\net6.0\evet.pdb
+C:\Users\segad\source\repos\evet\evet\obj\Debug\net6.0\evet.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\evet\evet\obj\Debug\net6.0\evet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\evet\evet\obj\Debug\net6.0\evet.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\evet\evet\obj\Debug\net6.0\evet.AssemblyInfo.cs
+C:\Users\segad\source\repos\evet\evet\obj\Debug\net6.0\evet.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\evet\evet\obj\Debug\net6.0\evet.dll
+C:\Users\segad\source\repos\evet\evet\obj\Debug\net6.0\refint\evet.dll
+C:\Users\segad\source\repos\evet\evet\obj\Debug\net6.0\evet.pdb
+C:\Users\segad\source\repos\evet\evet\obj\Debug\net6.0\evet.genruntimeconfig.cache
+C:\Users\segad\source\repos\evet\evet\obj\Debug\net6.0\ref\evet.dll

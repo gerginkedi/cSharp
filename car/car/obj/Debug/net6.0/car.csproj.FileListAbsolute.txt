@@ -1,0 +1,15 @@
+C:\Users\segad\source\repos\car\car\bin\Debug\net6.0\car.exe
+C:\Users\segad\source\repos\car\car\bin\Debug\net6.0\car.deps.json
+C:\Users\segad\source\repos\car\car\bin\Debug\net6.0\car.runtimeconfig.json
+C:\Users\segad\source\repos\car\car\bin\Debug\net6.0\car.dll
+C:\Users\segad\source\repos\car\car\bin\Debug\net6.0\car.pdb
+C:\Users\segad\source\repos\car\car\obj\Debug\net6.0\car.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\car\car\obj\Debug\net6.0\car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\car\car\obj\Debug\net6.0\car.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\car\car\obj\Debug\net6.0\car.AssemblyInfo.cs
+C:\Users\segad\source\repos\car\car\obj\Debug\net6.0\car.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\car\car\obj\Debug\net6.0\car.dll
+C:\Users\segad\source\repos\car\car\obj\Debug\net6.0\refint\car.dll
+C:\Users\segad\source\repos\car\car\obj\Debug\net6.0\car.pdb
+C:\Users\segad\source\repos\car\car\obj\Debug\net6.0\car.genruntimeconfig.cache
+C:\Users\segad\source\repos\car\car\obj\Debug\net6.0\ref\car.dll

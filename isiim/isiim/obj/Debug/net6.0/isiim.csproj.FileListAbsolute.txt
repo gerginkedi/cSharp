@@ -1,0 +1,15 @@
+C:\Users\segad\source\repos\isiim\isiim\bin\Debug\net6.0\isiim.exe
+C:\Users\segad\source\repos\isiim\isiim\bin\Debug\net6.0\isiim.deps.json
+C:\Users\segad\source\repos\isiim\isiim\bin\Debug\net6.0\isiim.runtimeconfig.json
+C:\Users\segad\source\repos\isiim\isiim\bin\Debug\net6.0\isiim.dll
+C:\Users\segad\source\repos\isiim\isiim\bin\Debug\net6.0\isiim.pdb
+C:\Users\segad\source\repos\isiim\isiim\obj\Debug\net6.0\isiim.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\isiim\isiim\obj\Debug\net6.0\isiim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\isiim\isiim\obj\Debug\net6.0\isiim.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\isiim\isiim\obj\Debug\net6.0\isiim.AssemblyInfo.cs
+C:\Users\segad\source\repos\isiim\isiim\obj\Debug\net6.0\isiim.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\isiim\isiim\obj\Debug\net6.0\isiim.dll
+C:\Users\segad\source\repos\isiim\isiim\obj\Debug\net6.0\refint\isiim.dll
+C:\Users\segad\source\repos\isiim\isiim\obj\Debug\net6.0\isiim.pdb
+C:\Users\segad\source\repos\isiim\isiim\obj\Debug\net6.0\isiim.genruntimeconfig.cache
+C:\Users\segad\source\repos\isiim\isiim\obj\Debug\net6.0\ref\isiim.dll

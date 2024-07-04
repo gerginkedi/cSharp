@@ -1,0 +1,5 @@
+C:\Users\segad\source\repos\bu\obj\Debug\net6.0\bu.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\bu\obj\Debug\net6.0\bu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\bu\obj\Debug\net6.0\bu.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\bu\obj\Debug\net6.0\bu.AssemblyInfo.cs
+C:\Users\segad\source\repos\bu\obj\Debug\net6.0\bu.csproj.CoreCompileInputs.cache

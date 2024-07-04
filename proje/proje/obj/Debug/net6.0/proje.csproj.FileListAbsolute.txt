@@ -1,0 +1,15 @@
+C:\Users\segad\source\repos\proje\proje\bin\Debug\net6.0\proje.exe
+C:\Users\segad\source\repos\proje\proje\bin\Debug\net6.0\proje.deps.json
+C:\Users\segad\source\repos\proje\proje\bin\Debug\net6.0\proje.runtimeconfig.json
+C:\Users\segad\source\repos\proje\proje\bin\Debug\net6.0\proje.dll
+C:\Users\segad\source\repos\proje\proje\bin\Debug\net6.0\proje.pdb
+C:\Users\segad\source\repos\proje\proje\obj\Debug\net6.0\proje.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\proje\proje\obj\Debug\net6.0\proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\proje\proje\obj\Debug\net6.0\proje.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\proje\proje\obj\Debug\net6.0\proje.AssemblyInfo.cs
+C:\Users\segad\source\repos\proje\proje\obj\Debug\net6.0\proje.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\proje\proje\obj\Debug\net6.0\proje.dll
+C:\Users\segad\source\repos\proje\proje\obj\Debug\net6.0\refint\proje.dll
+C:\Users\segad\source\repos\proje\proje\obj\Debug\net6.0\proje.pdb
+C:\Users\segad\source\repos\proje\proje\obj\Debug\net6.0\proje.genruntimeconfig.cache
+C:\Users\segad\source\repos\proje\proje\obj\Debug\net6.0\ref\proje.dll

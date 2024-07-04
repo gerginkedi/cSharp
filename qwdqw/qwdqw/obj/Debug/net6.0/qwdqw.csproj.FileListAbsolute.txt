@@ -1,0 +1,15 @@
+C:\Users\segad\source\repos\qwdqw\qwdqw\bin\Debug\net6.0\qwdqw.exe
+C:\Users\segad\source\repos\qwdqw\qwdqw\bin\Debug\net6.0\qwdqw.deps.json
+C:\Users\segad\source\repos\qwdqw\qwdqw\bin\Debug\net6.0\qwdqw.runtimeconfig.json
+C:\Users\segad\source\repos\qwdqw\qwdqw\bin\Debug\net6.0\qwdqw.dll
+C:\Users\segad\source\repos\qwdqw\qwdqw\bin\Debug\net6.0\qwdqw.pdb
+C:\Users\segad\source\repos\qwdqw\qwdqw\obj\Debug\net6.0\qwdqw.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\qwdqw\qwdqw\obj\Debug\net6.0\qwdqw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\qwdqw\qwdqw\obj\Debug\net6.0\qwdqw.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\qwdqw\qwdqw\obj\Debug\net6.0\qwdqw.AssemblyInfo.cs
+C:\Users\segad\source\repos\qwdqw\qwdqw\obj\Debug\net6.0\qwdqw.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\qwdqw\qwdqw\obj\Debug\net6.0\qwdqw.dll
+C:\Users\segad\source\repos\qwdqw\qwdqw\obj\Debug\net6.0\refint\qwdqw.dll
+C:\Users\segad\source\repos\qwdqw\qwdqw\obj\Debug\net6.0\qwdqw.pdb
+C:\Users\segad\source\repos\qwdqw\qwdqw\obj\Debug\net6.0\qwdqw.genruntimeconfig.cache
+C:\Users\segad\source\repos\qwdqw\qwdqw\obj\Debug\net6.0\ref\qwdqw.dll

@@ -1,0 +1,15 @@
+C:\Users\segad\source\repos\KrallarİCraat\KrallarİCraat\bin\Debug\net6.0\KrallarİCraat.exe
+C:\Users\segad\source\repos\KrallarİCraat\KrallarİCraat\bin\Debug\net6.0\KrallarİCraat.deps.json
+C:\Users\segad\source\repos\KrallarİCraat\KrallarİCraat\bin\Debug\net6.0\KrallarİCraat.runtimeconfig.json
+C:\Users\segad\source\repos\KrallarİCraat\KrallarİCraat\bin\Debug\net6.0\KrallarİCraat.dll
+C:\Users\segad\source\repos\KrallarİCraat\KrallarİCraat\bin\Debug\net6.0\KrallarİCraat.pdb
+C:\Users\segad\source\repos\KrallarİCraat\KrallarİCraat\obj\Debug\net6.0\KrallarİCraat.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\KrallarİCraat\KrallarİCraat\obj\Debug\net6.0\KrallarİCraat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\KrallarİCraat\KrallarİCraat\obj\Debug\net6.0\KrallarİCraat.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\KrallarİCraat\KrallarİCraat\obj\Debug\net6.0\KrallarİCraat.AssemblyInfo.cs
+C:\Users\segad\source\repos\KrallarİCraat\KrallarİCraat\obj\Debug\net6.0\KrallarİCraat.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\KrallarİCraat\KrallarİCraat\obj\Debug\net6.0\KrallarİCraat.dll
+C:\Users\segad\source\repos\KrallarİCraat\KrallarİCraat\obj\Debug\net6.0\refint\KrallarİCraat.dll
+C:\Users\segad\source\repos\KrallarİCraat\KrallarİCraat\obj\Debug\net6.0\KrallarİCraat.pdb
+C:\Users\segad\source\repos\KrallarİCraat\KrallarİCraat\obj\Debug\net6.0\KrallarİCraat.genruntimeconfig.cache
+C:\Users\segad\source\repos\KrallarİCraat\KrallarİCraat\obj\Debug\net6.0\ref\KrallarİCraat.dll

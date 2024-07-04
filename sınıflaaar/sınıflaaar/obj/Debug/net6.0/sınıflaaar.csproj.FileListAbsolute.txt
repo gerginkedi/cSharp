@@ -1,0 +1,15 @@
+C:\Users\segad\source\repos\sınıflaaar\sınıflaaar\bin\Debug\net6.0\sınıflaaar.exe
+C:\Users\segad\source\repos\sınıflaaar\sınıflaaar\bin\Debug\net6.0\sınıflaaar.deps.json
+C:\Users\segad\source\repos\sınıflaaar\sınıflaaar\bin\Debug\net6.0\sınıflaaar.runtimeconfig.json
+C:\Users\segad\source\repos\sınıflaaar\sınıflaaar\bin\Debug\net6.0\sınıflaaar.dll
+C:\Users\segad\source\repos\sınıflaaar\sınıflaaar\bin\Debug\net6.0\sınıflaaar.pdb
+C:\Users\segad\source\repos\sınıflaaar\sınıflaaar\obj\Debug\net6.0\sınıflaaar.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\sınıflaaar\sınıflaaar\obj\Debug\net6.0\sınıflaaar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\sınıflaaar\sınıflaaar\obj\Debug\net6.0\sınıflaaar.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\sınıflaaar\sınıflaaar\obj\Debug\net6.0\sınıflaaar.AssemblyInfo.cs
+C:\Users\segad\source\repos\sınıflaaar\sınıflaaar\obj\Debug\net6.0\sınıflaaar.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\sınıflaaar\sınıflaaar\obj\Debug\net6.0\sınıflaaar.dll
+C:\Users\segad\source\repos\sınıflaaar\sınıflaaar\obj\Debug\net6.0\refint\sınıflaaar.dll
+C:\Users\segad\source\repos\sınıflaaar\sınıflaaar\obj\Debug\net6.0\sınıflaaar.pdb
+C:\Users\segad\source\repos\sınıflaaar\sınıflaaar\obj\Debug\net6.0\sınıflaaar.genruntimeconfig.cache
+C:\Users\segad\source\repos\sınıflaaar\sınıflaaar\obj\Debug\net6.0\ref\sınıflaaar.dll

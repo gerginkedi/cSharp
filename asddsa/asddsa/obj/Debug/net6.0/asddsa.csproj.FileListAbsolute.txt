@@ -1,0 +1,15 @@
+C:\Users\segad\source\repos\asddsa\asddsa\obj\Debug\net6.0\asddsa.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\asddsa\asddsa\obj\Debug\net6.0\asddsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\asddsa\asddsa\obj\Debug\net6.0\asddsa.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\asddsa\asddsa\obj\Debug\net6.0\asddsa.AssemblyInfo.cs
+C:\Users\segad\source\repos\asddsa\asddsa\obj\Debug\net6.0\asddsa.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\asddsa\asddsa\bin\Debug\net6.0\asddsa.exe
+C:\Users\segad\source\repos\asddsa\asddsa\bin\Debug\net6.0\asddsa.deps.json
+C:\Users\segad\source\repos\asddsa\asddsa\bin\Debug\net6.0\asddsa.runtimeconfig.json
+C:\Users\segad\source\repos\asddsa\asddsa\bin\Debug\net6.0\asddsa.dll
+C:\Users\segad\source\repos\asddsa\asddsa\bin\Debug\net6.0\asddsa.pdb
+C:\Users\segad\source\repos\asddsa\asddsa\obj\Debug\net6.0\asddsa.dll
+C:\Users\segad\source\repos\asddsa\asddsa\obj\Debug\net6.0\refint\asddsa.dll
+C:\Users\segad\source\repos\asddsa\asddsa\obj\Debug\net6.0\asddsa.pdb
+C:\Users\segad\source\repos\asddsa\asddsa\obj\Debug\net6.0\asddsa.genruntimeconfig.cache
+C:\Users\segad\source\repos\asddsa\asddsa\obj\Debug\net6.0\ref\asddsa.dll

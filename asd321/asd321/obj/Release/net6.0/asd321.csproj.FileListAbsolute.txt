@@ -1,0 +1,15 @@
+C:\Users\segad\source\repos\asd321\asd321\bin\Release\net6.0\asd321.exe
+C:\Users\segad\source\repos\asd321\asd321\bin\Release\net6.0\asd321.deps.json
+C:\Users\segad\source\repos\asd321\asd321\bin\Release\net6.0\asd321.runtimeconfig.json
+C:\Users\segad\source\repos\asd321\asd321\bin\Release\net6.0\asd321.dll
+C:\Users\segad\source\repos\asd321\asd321\bin\Release\net6.0\asd321.pdb
+C:\Users\segad\source\repos\asd321\asd321\obj\Release\net6.0\asd321.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\asd321\asd321\obj\Release\net6.0\asd321.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\asd321\asd321\obj\Release\net6.0\asd321.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\asd321\asd321\obj\Release\net6.0\asd321.AssemblyInfo.cs
+C:\Users\segad\source\repos\asd321\asd321\obj\Release\net6.0\asd321.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\asd321\asd321\obj\Release\net6.0\asd321.dll
+C:\Users\segad\source\repos\asd321\asd321\obj\Release\net6.0\refint\asd321.dll
+C:\Users\segad\source\repos\asd321\asd321\obj\Release\net6.0\asd321.pdb
+C:\Users\segad\source\repos\asd321\asd321\obj\Release\net6.0\asd321.genruntimeconfig.cache
+C:\Users\segad\source\repos\asd321\asd321\obj\Release\net6.0\ref\asd321.dll

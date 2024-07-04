@@ -1,0 +1,15 @@
+C:\Users\segad\source\repos\SamanBalyası\SamanBalyası\bin\Debug\net6.0\SamanBalyası.exe
+C:\Users\segad\source\repos\SamanBalyası\SamanBalyası\bin\Debug\net6.0\SamanBalyası.deps.json
+C:\Users\segad\source\repos\SamanBalyası\SamanBalyası\bin\Debug\net6.0\SamanBalyası.runtimeconfig.json
+C:\Users\segad\source\repos\SamanBalyası\SamanBalyası\bin\Debug\net6.0\SamanBalyası.dll
+C:\Users\segad\source\repos\SamanBalyası\SamanBalyası\bin\Debug\net6.0\SamanBalyası.pdb
+C:\Users\segad\source\repos\SamanBalyası\SamanBalyası\obj\Debug\net6.0\SamanBalyası.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\SamanBalyası\SamanBalyası\obj\Debug\net6.0\SamanBalyası.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\SamanBalyası\SamanBalyası\obj\Debug\net6.0\SamanBalyası.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\SamanBalyası\SamanBalyası\obj\Debug\net6.0\SamanBalyası.AssemblyInfo.cs
+C:\Users\segad\source\repos\SamanBalyası\SamanBalyası\obj\Debug\net6.0\SamanBalyası.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\SamanBalyası\SamanBalyası\obj\Debug\net6.0\SamanBalyası.dll
+C:\Users\segad\source\repos\SamanBalyası\SamanBalyası\obj\Debug\net6.0\refint\SamanBalyası.dll
+C:\Users\segad\source\repos\SamanBalyası\SamanBalyası\obj\Debug\net6.0\SamanBalyası.pdb
+C:\Users\segad\source\repos\SamanBalyası\SamanBalyası\obj\Debug\net6.0\SamanBalyası.genruntimeconfig.cache
+C:\Users\segad\source\repos\SamanBalyası\SamanBalyası\obj\Debug\net6.0\ref\SamanBalyası.dll

@@ -1,0 +1,15 @@
+C:\Users\segad\source\repos\metod2\metod2\bin\Debug\net6.0\metod2.exe
+C:\Users\segad\source\repos\metod2\metod2\bin\Debug\net6.0\metod2.deps.json
+C:\Users\segad\source\repos\metod2\metod2\bin\Debug\net6.0\metod2.runtimeconfig.json
+C:\Users\segad\source\repos\metod2\metod2\bin\Debug\net6.0\metod2.dll
+C:\Users\segad\source\repos\metod2\metod2\bin\Debug\net6.0\metod2.pdb
+C:\Users\segad\source\repos\metod2\metod2\obj\Debug\net6.0\metod2.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\metod2\metod2\obj\Debug\net6.0\metod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\metod2\metod2\obj\Debug\net6.0\metod2.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\metod2\metod2\obj\Debug\net6.0\metod2.AssemblyInfo.cs
+C:\Users\segad\source\repos\metod2\metod2\obj\Debug\net6.0\metod2.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\metod2\metod2\obj\Debug\net6.0\metod2.dll
+C:\Users\segad\source\repos\metod2\metod2\obj\Debug\net6.0\refint\metod2.dll
+C:\Users\segad\source\repos\metod2\metod2\obj\Debug\net6.0\metod2.pdb
+C:\Users\segad\source\repos\metod2\metod2\obj\Debug\net6.0\metod2.genruntimeconfig.cache
+C:\Users\segad\source\repos\metod2\metod2\obj\Debug\net6.0\ref\metod2.dll

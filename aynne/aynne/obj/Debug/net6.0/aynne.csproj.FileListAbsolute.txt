@@ -1,0 +1,15 @@
+C:\Users\segad\source\repos\aynne\aynne\obj\Debug\net6.0\aynne.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\aynne\aynne\obj\Debug\net6.0\aynne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\aynne\aynne\obj\Debug\net6.0\aynne.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\aynne\aynne\obj\Debug\net6.0\aynne.AssemblyInfo.cs
+C:\Users\segad\source\repos\aynne\aynne\obj\Debug\net6.0\aynne.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\aynne\aynne\bin\Debug\net6.0\aynne.exe
+C:\Users\segad\source\repos\aynne\aynne\bin\Debug\net6.0\aynne.deps.json
+C:\Users\segad\source\repos\aynne\aynne\bin\Debug\net6.0\aynne.runtimeconfig.json
+C:\Users\segad\source\repos\aynne\aynne\bin\Debug\net6.0\aynne.dll
+C:\Users\segad\source\repos\aynne\aynne\bin\Debug\net6.0\aynne.pdb
+C:\Users\segad\source\repos\aynne\aynne\obj\Debug\net6.0\aynne.dll
+C:\Users\segad\source\repos\aynne\aynne\obj\Debug\net6.0\refint\aynne.dll
+C:\Users\segad\source\repos\aynne\aynne\obj\Debug\net6.0\aynne.pdb
+C:\Users\segad\source\repos\aynne\aynne\obj\Debug\net6.0\aynne.genruntimeconfig.cache
+C:\Users\segad\source\repos\aynne\aynne\obj\Debug\net6.0\ref\aynne.dll

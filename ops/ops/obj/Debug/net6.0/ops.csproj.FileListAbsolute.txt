@@ -1,0 +1,15 @@
+C:\Users\segad\source\repos\ops\ops\bin\Debug\net6.0\ops.exe
+C:\Users\segad\source\repos\ops\ops\bin\Debug\net6.0\ops.deps.json
+C:\Users\segad\source\repos\ops\ops\bin\Debug\net6.0\ops.runtimeconfig.json
+C:\Users\segad\source\repos\ops\ops\bin\Debug\net6.0\ops.dll
+C:\Users\segad\source\repos\ops\ops\bin\Debug\net6.0\ops.pdb
+C:\Users\segad\source\repos\ops\ops\obj\Debug\net6.0\ops.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\ops\ops\obj\Debug\net6.0\ops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\ops\ops\obj\Debug\net6.0\ops.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\ops\ops\obj\Debug\net6.0\ops.AssemblyInfo.cs
+C:\Users\segad\source\repos\ops\ops\obj\Debug\net6.0\ops.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\ops\ops\obj\Debug\net6.0\ops.dll
+C:\Users\segad\source\repos\ops\ops\obj\Debug\net6.0\refint\ops.dll
+C:\Users\segad\source\repos\ops\ops\obj\Debug\net6.0\ops.pdb
+C:\Users\segad\source\repos\ops\ops\obj\Debug\net6.0\ops.genruntimeconfig.cache
+C:\Users\segad\source\repos\ops\ops\obj\Debug\net6.0\ref\ops.dll

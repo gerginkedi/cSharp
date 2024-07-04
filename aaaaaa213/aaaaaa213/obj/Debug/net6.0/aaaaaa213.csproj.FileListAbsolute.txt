@@ -1,0 +1,15 @@
+C:\Users\segad\source\repos\aaaaaa213\aaaaaa213\bin\Debug\net6.0\aaaaaa213.exe
+C:\Users\segad\source\repos\aaaaaa213\aaaaaa213\bin\Debug\net6.0\aaaaaa213.deps.json
+C:\Users\segad\source\repos\aaaaaa213\aaaaaa213\bin\Debug\net6.0\aaaaaa213.runtimeconfig.json
+C:\Users\segad\source\repos\aaaaaa213\aaaaaa213\bin\Debug\net6.0\aaaaaa213.dll
+C:\Users\segad\source\repos\aaaaaa213\aaaaaa213\bin\Debug\net6.0\aaaaaa213.pdb
+C:\Users\segad\source\repos\aaaaaa213\aaaaaa213\obj\Debug\net6.0\aaaaaa213.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\aaaaaa213\aaaaaa213\obj\Debug\net6.0\aaaaaa213.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\aaaaaa213\aaaaaa213\obj\Debug\net6.0\aaaaaa213.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\aaaaaa213\aaaaaa213\obj\Debug\net6.0\aaaaaa213.AssemblyInfo.cs
+C:\Users\segad\source\repos\aaaaaa213\aaaaaa213\obj\Debug\net6.0\aaaaaa213.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\aaaaaa213\aaaaaa213\obj\Debug\net6.0\aaaaaa213.dll
+C:\Users\segad\source\repos\aaaaaa213\aaaaaa213\obj\Debug\net6.0\refint\aaaaaa213.dll
+C:\Users\segad\source\repos\aaaaaa213\aaaaaa213\obj\Debug\net6.0\aaaaaa213.pdb
+C:\Users\segad\source\repos\aaaaaa213\aaaaaa213\obj\Debug\net6.0\aaaaaa213.genruntimeconfig.cache
+C:\Users\segad\source\repos\aaaaaa213\aaaaaa213\obj\Debug\net6.0\ref\aaaaaa213.dll

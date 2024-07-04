@@ -1,0 +1,15 @@
+C:\Users\segad\source\repos\konsolkonsol\konsolkonsol\bin\Debug\net6.0\konsolkonsol.exe
+C:\Users\segad\source\repos\konsolkonsol\konsolkonsol\bin\Debug\net6.0\konsolkonsol.deps.json
+C:\Users\segad\source\repos\konsolkonsol\konsolkonsol\bin\Debug\net6.0\konsolkonsol.runtimeconfig.json
+C:\Users\segad\source\repos\konsolkonsol\konsolkonsol\bin\Debug\net6.0\konsolkonsol.dll
+C:\Users\segad\source\repos\konsolkonsol\konsolkonsol\bin\Debug\net6.0\konsolkonsol.pdb
+C:\Users\segad\source\repos\konsolkonsol\konsolkonsol\obj\Debug\net6.0\konsolkonsol.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\konsolkonsol\konsolkonsol\obj\Debug\net6.0\konsolkonsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\konsolkonsol\konsolkonsol\obj\Debug\net6.0\konsolkonsol.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\konsolkonsol\konsolkonsol\obj\Debug\net6.0\konsolkonsol.AssemblyInfo.cs
+C:\Users\segad\source\repos\konsolkonsol\konsolkonsol\obj\Debug\net6.0\konsolkonsol.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\konsolkonsol\konsolkonsol\obj\Debug\net6.0\konsolkonsol.dll
+C:\Users\segad\source\repos\konsolkonsol\konsolkonsol\obj\Debug\net6.0\refint\konsolkonsol.dll
+C:\Users\segad\source\repos\konsolkonsol\konsolkonsol\obj\Debug\net6.0\konsolkonsol.pdb
+C:\Users\segad\source\repos\konsolkonsol\konsolkonsol\obj\Debug\net6.0\konsolkonsol.genruntimeconfig.cache
+C:\Users\segad\source\repos\konsolkonsol\konsolkonsol\obj\Debug\net6.0\ref\konsolkonsol.dll
