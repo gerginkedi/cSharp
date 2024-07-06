@@ -1,0 +1,17 @@
+C:\Users\segad\source\repos\NesneUzerindenMetod\NesneUzerindenMetod\bin\Debug\net6.0-windows\NesneUzerindenMetod.exe
+C:\Users\segad\source\repos\NesneUzerindenMetod\NesneUzerindenMetod\bin\Debug\net6.0-windows\NesneUzerindenMetod.deps.json
+C:\Users\segad\source\repos\NesneUzerindenMetod\NesneUzerindenMetod\bin\Debug\net6.0-windows\NesneUzerindenMetod.runtimeconfig.json
+C:\Users\segad\source\repos\NesneUzerindenMetod\NesneUzerindenMetod\bin\Debug\net6.0-windows\NesneUzerindenMetod.dll
+C:\Users\segad\source\repos\NesneUzerindenMetod\NesneUzerindenMetod\bin\Debug\net6.0-windows\NesneUzerindenMetod.pdb
+C:\Users\segad\source\repos\NesneUzerindenMetod\NesneUzerindenMetod\obj\Debug\net6.0-windows\NesneUzerindenMetod.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\NesneUzerindenMetod\NesneUzerindenMetod\obj\Debug\net6.0-windows\NesneUzerindenMetod.Form1.resources
+C:\Users\segad\source\repos\NesneUzerindenMetod\NesneUzerindenMetod\obj\Debug\net6.0-windows\NesneUzerindenMetod.csproj.GenerateResource.cache
+C:\Users\segad\source\repos\NesneUzerindenMetod\NesneUzerindenMetod\obj\Debug\net6.0-windows\NesneUzerindenMetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\NesneUzerindenMetod\NesneUzerindenMetod\obj\Debug\net6.0-windows\NesneUzerindenMetod.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\NesneUzerindenMetod\NesneUzerindenMetod\obj\Debug\net6.0-windows\NesneUzerindenMetod.AssemblyInfo.cs
+C:\Users\segad\source\repos\NesneUzerindenMetod\NesneUzerindenMetod\obj\Debug\net6.0-windows\NesneUzerindenMetod.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\NesneUzerindenMetod\NesneUzerindenMetod\obj\Debug\net6.0-windows\NesneUzerindenMetod.dll
+C:\Users\segad\source\repos\NesneUzerindenMetod\NesneUzerindenMetod\obj\Debug\net6.0-windows\refint\NesneUzerindenMetod.dll
+C:\Users\segad\source\repos\NesneUzerindenMetod\NesneUzerindenMetod\obj\Debug\net6.0-windows\NesneUzerindenMetod.pdb
+C:\Users\segad\source\repos\NesneUzerindenMetod\NesneUzerindenMetod\obj\Debug\net6.0-windows\NesneUzerindenMetod.genruntimeconfig.cache
+C:\Users\segad\source\repos\NesneUzerindenMetod\NesneUzerindenMetod\obj\Debug\net6.0-windows\ref\NesneUzerindenMetod.dll
