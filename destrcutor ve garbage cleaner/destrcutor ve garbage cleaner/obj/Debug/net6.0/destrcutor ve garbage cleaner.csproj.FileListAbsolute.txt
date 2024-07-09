@@ -1,0 +1,15 @@
+C:\Users\segad\source\repos\destrcutor ve garbage cleaner\destrcutor ve garbage cleaner\bin\Debug\net6.0\destrcutor ve garbage cleaner.exe
+C:\Users\segad\source\repos\destrcutor ve garbage cleaner\destrcutor ve garbage cleaner\bin\Debug\net6.0\destrcutor ve garbage cleaner.deps.json
+C:\Users\segad\source\repos\destrcutor ve garbage cleaner\destrcutor ve garbage cleaner\bin\Debug\net6.0\destrcutor ve garbage cleaner.runtimeconfig.json
+C:\Users\segad\source\repos\destrcutor ve garbage cleaner\destrcutor ve garbage cleaner\bin\Debug\net6.0\destrcutor ve garbage cleaner.dll
+C:\Users\segad\source\repos\destrcutor ve garbage cleaner\destrcutor ve garbage cleaner\bin\Debug\net6.0\destrcutor ve garbage cleaner.pdb
+C:\Users\segad\source\repos\destrcutor ve garbage cleaner\destrcutor ve garbage cleaner\obj\Debug\net6.0\destrcutor ve garbage cleaner.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\destrcutor ve garbage cleaner\destrcutor ve garbage cleaner\obj\Debug\net6.0\destrcutor ve garbage cleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\destrcutor ve garbage cleaner\destrcutor ve garbage cleaner\obj\Debug\net6.0\destrcutor ve garbage cleaner.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\destrcutor ve garbage cleaner\destrcutor ve garbage cleaner\obj\Debug\net6.0\destrcutor ve garbage cleaner.AssemblyInfo.cs
+C:\Users\segad\source\repos\destrcutor ve garbage cleaner\destrcutor ve garbage cleaner\obj\Debug\net6.0\destrcutor ve garbage cleaner.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\destrcutor ve garbage cleaner\destrcutor ve garbage cleaner\obj\Debug\net6.0\destrcutor ve garbage cleaner.dll
+C:\Users\segad\source\repos\destrcutor ve garbage cleaner\destrcutor ve garbage cleaner\obj\Debug\net6.0\refint\destrcutor ve garbage cleaner.dll
+C:\Users\segad\source\repos\destrcutor ve garbage cleaner\destrcutor ve garbage cleaner\obj\Debug\net6.0\destrcutor ve garbage cleaner.pdb
+C:\Users\segad\source\repos\destrcutor ve garbage cleaner\destrcutor ve garbage cleaner\obj\Debug\net6.0\destrcutor ve garbage cleaner.genruntimeconfig.cache
+C:\Users\segad\source\repos\destrcutor ve garbage cleaner\destrcutor ve garbage cleaner\obj\Debug\net6.0\ref\destrcutor ve garbage cleaner.dll
