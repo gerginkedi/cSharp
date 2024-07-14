@@ -1,0 +1,15 @@
+C:\Users\segad\source\repos\okul\okul\bin\Debug\net6.0\okul.exe
+C:\Users\segad\source\repos\okul\okul\bin\Debug\net6.0\okul.deps.json
+C:\Users\segad\source\repos\okul\okul\bin\Debug\net6.0\okul.runtimeconfig.json
+C:\Users\segad\source\repos\okul\okul\bin\Debug\net6.0\okul.dll
+C:\Users\segad\source\repos\okul\okul\bin\Debug\net6.0\okul.pdb
+C:\Users\segad\source\repos\okul\okul\obj\Debug\net6.0\okul.csproj.AssemblyReference.cache
+C:\Users\segad\source\repos\okul\okul\obj\Debug\net6.0\okul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\okul\okul\obj\Debug\net6.0\okul.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\okul\okul\obj\Debug\net6.0\okul.AssemblyInfo.cs
+C:\Users\segad\source\repos\okul\okul\obj\Debug\net6.0\okul.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\okul\okul\obj\Debug\net6.0\okul.dll
+C:\Users\segad\source\repos\okul\okul\obj\Debug\net6.0\refint\okul.dll
+C:\Users\segad\source\repos\okul\okul\obj\Debug\net6.0\okul.pdb
+C:\Users\segad\source\repos\okul\okul\obj\Debug\net6.0\okul.genruntimeconfig.cache
+C:\Users\segad\source\repos\okul\okul\obj\Debug\net6.0\ref\okul.dll
